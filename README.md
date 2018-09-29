@@ -1,2 +1,2 @@
-# ethereum-attack-countermeasure
+# Ethereum wallet attack/countermeasure
 ETHEREUM WALLET ATTACKS AND COUNTERMEASURES ANALYSIS
